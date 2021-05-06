@@ -1,0 +1,5 @@
+Rain,Sprinkler,Value
+False,False,0.315
+False,True,0.385
+True,False,0.285
+True,True,0.015

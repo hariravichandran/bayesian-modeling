@@ -1,0 +1,5 @@
+Rain,Grass Wet,Value
+False,False,1.15
+False,True,0.85
+True,False,0.08
+True,True,1.92
