@@ -22,7 +22,7 @@ A factor is a function that maps each variable in a set to a number greater than
 Given two sets of variables **A** and **B** , and the set of shared variables, , the instantiation of the aforementioned variables **a** and **b** are consistent, if the instantiation of the shared variables **c** in **a** and **b** are the same.
 
 Here is an example Bayesian Network for a Sprinkler:
-![Bayesian Network Image should display here.](SampleBayesianNetwork.png)
+![Bayesian Network Image should display here.](SampleBayesianNetwork.PNG)
 
 ![Bayesian Network Image should display here.](https://github.com/hariravichandran/bayesian-factors/blob/f847dc2a708f6de59468f91581a5b8c2b1d8d586/SampleBayesianNetwork.PNG)
 
