@@ -24,8 +24,6 @@ Given two sets of variables **A** and **B** , and the set of shared variables, ,
 Here is an example Bayesian Network for a Sprinkler:
 ![Bayesian Network Image should display here.](SampleBayesianNetwork.PNG)
 
-![Bayesian Network Image should display here.](https://github.com/hariravichandran/bayesian-factors/blob/f847dc2a708f6de59468f91581a5b8c2b1d8d586/SampleBayesianNetwork.PNG)
-
 For this network, the factors are as follows:
 
 Factor A over Rain, Sprinkler:
