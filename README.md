@@ -5,7 +5,7 @@ Bayesian Network Analysis
 ![Bayesian Network Image should display here.](SampleBayesianNetwork.PNG)
 
 ## Table of Contents
-- [Problem Statement](#problem-statement)
+- [Factor Model](#factor-model)
 - [Repo Overview](#repo-overview)
   * [Description](#description)
   * [Data Structure Choice](#data-structure-choice)
@@ -19,7 +19,7 @@ Bayesian Network Analysis
   * [Files](#files)
   * [Output](#output)
 
-# Problem Statement
+# Factor Model
 A factor is a function that maps each variable in a set to a number greater than or equal to zero.
 
 Given two sets of variables **A** and **B** , and the set of shared variables, , the instantiation of the aforementioned variables **a** and **b** are consistent, if the instantiation of the shared variables **c** in **a** and **b** are the same.
