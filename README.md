@@ -1,6 +1,9 @@
 # Bayesian Modeling
 Author: Hari Ravichandran
 
+Bayesian Network Analysis
+![Bayesian Network Image should display here.](SampleBayesianNetwork.PNG)
+
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Repo Overview](#repo-overview)
@@ -21,10 +24,7 @@ A factor is a function that maps each variable in a set to a number greater than
 
 Given two sets of variables **A** and **B** , and the set of shared variables, , the instantiation of the aforementioned variables **a** and **b** are consistent, if the instantiation of the shared variables **c** in **a** and **b** are the same.
 
-Here is an example Bayesian Network for a Sprinkler:
-![Bayesian Network Image should display here.](SampleBayesianNetwork.PNG)
-
-For this network, the factors are as follows:
+At the beginning, the Bayesian Network for the sprinkler was shown. For this network, the factors are as follows:
 
 Factor A over Rain, Sprinkler:
 
